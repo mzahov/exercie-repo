@@ -1,2 +1,2 @@
 # exercie-repo
-GitHub is stupid
+GitHub is useless program
